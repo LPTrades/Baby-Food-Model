@@ -12,7 +12,7 @@
 - FVG association complete
 
 ## Next Priorities
-- Setup times for swing detection [[Swing Detection Timing]]
+- Setup times for swing detection [[3. Problems/Swing Detection Timing]]
 - Entry visualization
 - SL logic
 - TP logic
