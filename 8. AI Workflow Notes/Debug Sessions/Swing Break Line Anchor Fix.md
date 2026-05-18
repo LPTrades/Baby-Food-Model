@@ -16,7 +16,7 @@ I need you to draw the line from the swing high that was broken itself. CHANGE T
 to be clear i dont want it to be a bar earlier so it looks better, i want to anchor it exactly on the 5m swing high that was broken. Don't you store that candle somewhere so you know when to draw the break line once price trades to it
 ```
 ## Claude Response Summary  
--  With prompt 1 Claude proceeded to change the candle it was using to draw the break line by once candle. I continued to prompt it with prompt 2 and it said I was right, "but we never store the bar index of the swing candle itself. We need to add that."
+-  With prompt 1 Claude proceeded to change the candle it was using to draw the break line by one candle. I continued to prompt it with prompt 2 and it said I was right, "but we never store the bar index of the swing candle itself. We need to add that."
   
 ## What I Learned  
 -  How Claude is storing the levels. It keeps the price to know when to display the break but not the candle itself.

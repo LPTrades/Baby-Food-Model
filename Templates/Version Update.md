@@ -1,8 +1,5 @@
 # Version Update - 
 
-## Version
-- 
-
 ## Changes Added
 - 
 
