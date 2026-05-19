@@ -22,3 +22,6 @@
 - 6 months of live testing with positive returns
 - Ability to test the model against old data
 - Ability to improve the model by collecting data on losing and winning trades
+
+## Visuals
+![[20260519 v0.4 visual.png]]
