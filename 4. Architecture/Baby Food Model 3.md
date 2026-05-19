@@ -4,8 +4,10 @@
 - 5m swing liquidity
 - Break of swing
 - First associated 1m FVG
-- Quick 2rr trades using a method for stop losses
+- Quick 2rr trades
 - Reversal model
+## Stop loss logic
+- Place stop loss on the lowest low that formed after taking out the last 5m swing creating a break.
 
 ## Current Progress
 - Swing detection complete

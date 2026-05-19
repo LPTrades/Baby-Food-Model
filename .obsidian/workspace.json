@@ -37,6 +37,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "6. Ideas/Line chart showing equity curves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Line chart showing equity curves"
+            }
+          },
+          {
+            "id": "e58b4607627a89b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1. Daily Logs/2026-05-19.md",
                 "mode": "source",
                 "source": false
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,44 +233,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abbbbeccbef44aa8",
+  "active": "e58b4607627a89b0",
   "lastOpenFiles": [
-    "1. Daily Logs/2026-05-18.md",
-    "9. Screenshots/Model Visual/v0.4 Legend.md",
-    "9. Screenshots/Model Visual/Swing highs, swing lows and breaks.md",
-    "9. Screenshots/Model Visual/v0.4 Visual with entries.md",
-    "8. AI Workflow Notes/Debug Sessions/FVG High and Low Detection.md",
-    "4. Architecture/Baby Food Model 3.md",
-    "3. Problems/Backtesting script to show equity curves.md",
-    "3. Problems/FVG HighLow Detection - CLOSED.md",
-    "Images/20250519 image for legend.png",
+    "1. Daily Logs/2026-05-19 2.md",
     "1. Daily Logs/2026-05-19.md",
-    "Images/20260519 v0.4 visual.png",
-    "3. Problems/Swing Detection Timing.md",
+    "8. AI Workflow Notes/Architecture Discussions (model logic)/Break Range.md",
+    "8. AI Workflow Notes/Debug Sessions/FVG High and Low Detection.md",
+    "8. AI Workflow Notes/Debug Sessions/Swing Break Line Anchor Fix 1m.md",
+    "8. AI Workflow Notes/Debug Sessions/Swing Break Line Anchor Fix.md",
+    "Images/Pasted image 20260519161232.png",
+    "Images/Pasted image 20260519161120.png",
+    "Images/Pasted image 20260519155240.png",
+    "Images/Pasted image 20260519000550.png",
+    "3. Problems/Backtesting script to show equity curves.md",
     "3. Problems/Break Signal Anchor - CLOSED.md",
+    "3. Problems/Swing Detection Timing.md",
+    "6. Ideas/Line chart showing equity curves.md",
+    "4. Architecture/Baby Food Model 3.md",
+    "6. Ideas/Claude Break Range.md",
+    "9. Screenshots/Model Visual/v0.4 Legend.md",
+    "9. Screenshots/Model Visual/v0.4 Visual with entries.md",
+    "9. Screenshots/Model Visual/Swing highs, swing lows and breaks.md",
     "7. Version history/v0.4.md",
     "Images/Pasted image 20260519001536.png",
-    "Images/FVG HighLow detection fix.png",
-    "Images/FVG HighLow detection mistake.png",
-    "Images/Pasted image 20260519000748.png",
-    "Images/Pasted image 20260519000550.png",
-    "8. AI Workflow Notes/Debug Sessions/Swing Break Line Anchor Fix 1m.md",
-    "Images/20260519 Legend.png",
-    "8. AI Workflow Notes/Debug Sessions/Swing Break Line Anchor Fix.md",
-    "Images/Pasted image 20260519000342.png",
-    "1. Daily Logs/2026-05-17.md",
-    "Images/Pasted image 20260517230912.png",
+    "Images/Pasted image 20260519153145.png",
+    "7. Version history/v0.1.md",
     "7. Version history/v0.2.md",
     "7. Version history/v0.3.md",
+    "Images/FVG HighLow detection fix.png",
+    "Images/FVG HighLow detection mistake.png",
+    "1. Daily Logs/2026-05-18.md",
+    "3. Problems/FVG HighLow Detection - CLOSED.md",
+    "Images/20250519 image for legend.png",
+    "Images/20260519 v0.4 visual.png",
+    "1. Daily Logs/2026-05-17.md",
     "Templates/Version Update.md",
-    "7. Version history/v0.1.md",
     "Templates/Problem Report.md",
     "Templates/Experiment.md",
-    "Templates/Daily Research Log.md",
-    "Templates/AI Workflow Notes.md",
-    "HOW TO USE/Why Internal links matter.md",
-    "1. Daily Logs/2026-05-15.md",
-    "1. Daily Logs/2026-05-14.md",
     "Images",
     "9. Screenshots/Model Visual",
     "8. AI Workflow Notes/Prompt Experiments",

@@ -1,4 +1,4 @@
-# AI Development Log - 
+# AI Development Log - 2026-05-19
 ## Objective  
 -  Make sure Claude understands the anatomy of a FVG properly.
   
@@ -23,7 +23,7 @@
   
 ## Claude Response Summary  
 -  Prompt 1
-  ![[Pasted image 20260519000550.png]]
+  ![[20260519 Legend.png]]
 - Prompt 2
  ![[FVG HighLow detection mistake.png]]It was mistaking the high of the first candle as the high of the bullish fvg when it was actually the low. 
 - Prompt 3
@@ -36,7 +36,7 @@
   and `low[2]` for the bearish entry when it should be `high` (candle 3's high).
   Want me to fix that now?
   ``` 
-  ![[Pasted image 20260519001536.png]]
+  ![[FVG HighLow detection fix.png]]
   
 
 ## What I Learned  
