@@ -19,10 +19,10 @@ to be clear i dont want it to be a bar earlier so it looks better, i want to anc
 -  With prompt 1 Claude proceeded to change the candle it was using to draw the break line by one candle. I continued to prompt it with prompt 2 and it said I was right, "but we never store the bar index of the swing candle itself. We need to add that."
   
 ## What I Learned  
--  How Claude is storing the levels. It keeps the price to know when to display the break but not the candle itself.
+- How Claude is storing the levels. It keeps the price to know when to display the break but not the candle itself.
   
 ## Final Decision  
--  Updated version of the code except I'm keeping it as a pine script rather than a python file that outputs a pine script.
+- Updated [[v0.1]] version of the code except I'm keeping it as a pine script rather than a python file that outputs a pine script.
   
 ## Related Files  
 -![[Pasted image 20260517231001.png]]

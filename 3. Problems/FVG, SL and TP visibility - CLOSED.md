@@ -7,7 +7,7 @@
 - After a new break happens, the script deletes the old break. I assume its using the same logic for everything else.
 
 ## Attempted Fixes
-- [[FVG HighLow detection fix.png]]
+- [[FVG, SL and TP visibility fix]]
 
 ## Current Status
 - CLOsED

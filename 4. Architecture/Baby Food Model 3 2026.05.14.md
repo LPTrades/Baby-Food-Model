@@ -1,4 +1,5 @@
-# **REVERSAL LIQUIDITY MODEL** _ICT-style 5m swing sweep with 1m FVG entry_
+
+# **REVERSAL LIQUIDITY MODEL**  ICT-style 5m swing sweep with 1m FVG entry
 
 ---
 
@@ -27,26 +28,26 @@
 ## **Session / Timing**
 
 - Primary: 9:30 — 11:00 NY time
-- Planned: 3:00 — 4:00 AM and other sessions TBD
+- Planned: 3:00 — 4:00 AM and 14:00-15:00
 - Swings detected within session window only
 
 ---
 
 ## **Current Progress**
 
-|Component|Status|
-|---|---|
-|5m swing detection|Complete|
-|Break detection|Complete|
-|FVG association|Complete|
-|Entry visualization|Complete|
-|SL logic|Complete|
-|TP logic (2R)|Complete|
-|Trade close logic|Complete|
-|Session timing|Partial|
-|Pine Script visualization|Complete|
-|Python backtester|Not started|
-|Live execution engine|Not started|
+| Component                 | Status      |
+| ------------------------- | ----------- |
+| 5m swing detection        | Complete    |
+| Break detection           | Complete    |
+| FVG association           | Complete    |
+| Entry visualization       | Complete    |
+| SL logic                  | Complete    |
+| TP logic (2R)             | Complete    |
+| Trade close logic         | Complete    |
+| Session timing            | Partial     |
+| Pine Script visualization | Complete    |
+| Python backtester         | Partial     |
+| Live execution engine     | Not started |
 
 ---
 
@@ -76,8 +77,3 @@
 - Maximum allowed stop size in points before a setup is skipped?
 - Should both long and short setups be active simultaneously or one at a time?
 - What invalidates a setup mid-trade beyond SL being hit?
-
-## Visuals
-![[Pasted image 20260520184725.png]]
-![[Pasted image 20260520184716.png]]
-![[Pasted image 20260520184612.png]]

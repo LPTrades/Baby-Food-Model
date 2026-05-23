@@ -11,7 +11,7 @@
   ![[Pasted image 20260519155240.png]]
 - Prompt 2
   ```
-  I want to change your definition "... from where the swing started to where it was broken." It is not to where it was broken, it goes past that to where it reverses and places a high.
+  I want to change your definition "... from where the swing started to where it was broken." It is not to where it was broken, it goes past that to where it reverses and places a high. That is where I place my stop. Define the logic now.
   ```
 - Prompt 3
   ```

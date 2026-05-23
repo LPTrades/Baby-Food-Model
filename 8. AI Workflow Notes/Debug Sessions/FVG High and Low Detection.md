@@ -11,7 +11,7 @@
 - Prompt 2
   ```
   now show me what the high of the bullish fvg is and its low and the same with 
-  bullish
+  bearish
   ```
 - Prompt 3
   ```
@@ -44,4 +44,3 @@
   
 ## Final Decision  
 -  I asked Claude to update Pinescript and give me [[v0.4]]. Here is a visual example:
-  ![[20260519 v0.4 visual.png]]
