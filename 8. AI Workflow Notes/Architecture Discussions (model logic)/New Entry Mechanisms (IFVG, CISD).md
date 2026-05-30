@@ -57,6 +57,6 @@
 >![[Pasted image 20260522224302.png]]
 
 >[!info] Prompt 4
->[[The Oracle 2026.05.22]]
+>[[Baby Food Model 3 2026.05.22]]
 ## Final Decision  
 -  Will implement these step by step into the entry mechanism for the model to first create [[v0.7]] and then [[v1.1]]
