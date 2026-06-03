@@ -2,7 +2,7 @@
 
 ## Objective
 
-* Implement a CISD + IFVG python and pine script version of the model according to [[Baby Food Model 3 2026.05.22]]
+* Implement a CISD + IFVG python and pine script version of the model according to [[Baby Food Model 3 2026.06.01]]
 
 ## Important Prompt
 

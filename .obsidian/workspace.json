@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Version history/v1.4 (CISD + IFVG).md",
+                "file": "4. Architecture/Baby Food Model 3 2026.06.01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v1.4 (CISD + IFVG)"
+              "title": "Baby Food Model 3 2026.06.01"
             }
           }
         ]
@@ -196,17 +196,24 @@
   },
   "active": "f3b8bad23389ec0b",
   "lastOpenFiles": [
+    "3. Problems/Versions 1.0 to 1.4 do not work [CLOSED].md",
+    "8. AI Workflow Notes/Architecture Discussions (model logic)/Break Range, SL and TP.md",
+    "1. Daily Logs/2026-06-01.md",
+    "4. Architecture/Baby Food Model 3 2026.06.01.md",
+    "7. Version history/v1.5 (CISD + IFVG).md",
+    "8. AI Workflow Notes/Debug Sessions/Fixing v1.4.md",
+    "Versions 1.0 to 1.4 do not work [CLOSED.md",
+    "Images/babyfood.py",
+    "7. Version history/v0.10 (CISD + IFVG).md",
     "8. AI Workflow Notes/Prompt Experiments/CISD + IFVG refinement.md",
+    "1. Daily Logs/2026-05-30.md",
+    "7. Version history/v1.4 (CISD + IFVG).md",
     "8. AI Workflow Notes/Prompt Experiments/IFVG + FVG entry implementation.md",
     "8. AI Workflow Notes/Prompt Experiments/CISD + IFVG entry implementation (v0.9, v1.2).md",
-    "7. Version history/v1.4 (CISD + IFVG).md",
-    "1. Daily Logs/2026-05-30.md",
-    "7. Version history/v0.10 (CISD + IFVG).md",
     "Images/Pasted image 20260530124629.png",
     "5. Research Notes/v0.9 Pine script results.md",
     "Images/Pasted image 20260530123400.png",
     "Images/Pasted image 20260530123335.png",
-    "4. Architecture/Baby Food Model 3 2026.05.22.md",
     "7. Version history/5m Swing + break foundation.md",
     "7. Version history/v0.9 (CISD + IFVG).md",
     "7. Version history/v1.3 (CISD + IFVG).md",
@@ -223,12 +230,6 @@
     "7. Version history/v0.1.md",
     "1. Daily Logs/2026-05-24.md",
     "6. Ideas/Model optimisation notes.md",
-    "7. Version history/v0.2.md",
-    "7. Version history/v0.3.md",
-    "7. Version history/v0.4.md",
-    "7. Version history/v0.5.md",
-    "1. Daily Logs/2026-05-23.md",
-    "1. Daily Logs/2026-05-22.md",
     "Images/Pasted image 20260523233736.png",
     "Images/Pasted image 20260523233247.png",
     "Images/Pasted image 20260522225756.png",
@@ -240,7 +241,6 @@
     "8. AI Workflow Notes/Architecture Discussions (model logic)",
     "8. AI Workflow Notes",
     "9. Screenshots/Notion Dashboard",
-    "9. Screenshots",
-    "6. Ideas/Swing Detection Timing"
+    "9. Screenshots"
   ]
 }
