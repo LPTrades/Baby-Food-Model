@@ -55,8 +55,8 @@
 
 ### Entry Logic
 
-- Long: all three (FVG, IFVG, CISD) must form inside the break range after a swing low is swept
-- Short: all three must form inside the break range after a swing high is swept
+- Long: both (IFVG, CISD) must form inside the break range after a swing low is swept
+- Short: both must form inside the break range after a swing high is swept
 - Entry price TBD — currently triggers as soon as two are confirmed
 
 ---
