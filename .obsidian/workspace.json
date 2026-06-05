@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Logs/2026-06-03.md",
+                "file": "1. Daily Logs/2026-06-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-03"
+              "title": "2026-06-04"
             }
           }
         ]
@@ -196,13 +196,22 @@
   },
   "active": "f3b8bad23389ec0b",
   "lastOpenFiles": [
-    "2. Experiments/Win rate and expansion days.md",
+    "7. Version history/Pine Scripts/v0.12.md",
+    "7. Version history/v1.6.md",
+    "1. Daily Logs/2026-06-04.md",
+    "3. Problems/logic for v0.11 - CLOSED.md",
+    "1. Daily Logs/2026-06-03.md",
+    "1. Daily Logs/2026-06-01.md",
+    "8. AI Workflow Notes/Architecture Discussions (model logic)/Claude's take on the model worksheet.md",
+    "7. Version history/Pine Scripts/v0.11.md",
+    "7. Version history/v1.5 (CISD + IFVG).md",
+    "7. Version history/Pine Scripts/v0.9 (CISD + IFVG).md",
+    "7. Version history/Pine Scripts",
+    "2. Experiments/v1.5 Win rate and expansion days.md",
     "2. Experiments/backtesting v1.5.md",
     "2. Experiments/v1.5 win rate by time clusters.md",
-    "1. Daily Logs/2026-06-03.md",
     "4. Architecture/Baby Food Model 3 2026.06.01.md",
-    "7. Version history/v0.10 (CISD + IFVG).md",
-    "7. Version history/v1.5 (CISD + IFVG).md",
+    "7. Version history/Pine Scripts/v0.10 (CISD + IFVG).md",
     "Images/dow_breakdown.png",
     "Images/Experiment26_06_03.py",
     "Images/babyfood 1.py",
@@ -211,7 +220,6 @@
     "5. Research Notes/Pine script weekly results",
     "4. Architecture/Baby Food Model 3 2026.05.14.md",
     "2. Experiments/Backtesting v1.1.md",
-    "1. Daily Logs/2026-06-01.md",
     "3. Problems/Versions 1.0 to 1.4 do not work [CLOSED].md",
     "8. AI Workflow Notes/Architecture Discussions (model logic)/Break Range, SL and TP.md",
     "8. AI Workflow Notes/Debug Sessions/Fixing v1.4.md",
@@ -219,17 +227,9 @@
     "Images/babyfood.py",
     "8. AI Workflow Notes/Prompt Experiments/CISD + IFVG refinement.md",
     "1. Daily Logs/2026-05-30.md",
-    "7. Version history/v1.4 (CISD + IFVG).md",
-    "8. AI Workflow Notes/Prompt Experiments/IFVG + FVG entry implementation.md",
-    "8. AI Workflow Notes/Prompt Experiments/CISD + IFVG entry implementation (v0.9, v1.2).md",
     "Images/Pasted image 20260530124629.png",
     "Images/Pasted image 20260530123400.png",
     "Images/Pasted image 20260530123335.png",
-    "7. Version history/5m Swing + break foundation.md",
-    "7. Version history/v0.9 (CISD + IFVG).md",
-    "7. Version history/v1.3 (CISD + IFVG).md",
-    "3. Problems/Backtesting script to show equity curves.md",
-    "1. Daily Logs/2026-05-28.md",
     "Images/Pasted image 20260529160229.png",
     "Images/Pasted image 20260529160144.png",
     "Images/Pasted image 20260529153259.png",
@@ -240,7 +240,6 @@
     "9. Screenshots/Model Visual",
     "8. AI Workflow Notes/Prompt Experiments",
     "8. AI Workflow Notes/Debug Sessions/Untitled",
-    "8. AI Workflow Notes/Debug Sessions",
-    "8. AI Workflow Notes/Architecture Discussions (model logic)"
+    "8. AI Workflow Notes/Debug Sessions"
   ]
 }
