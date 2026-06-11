@@ -1,0 +1,1 @@
+If larger RR has a good win rate but still low expectancy, what if that's because too many trades are taken with the CISD level or entry being too far from the stop?
